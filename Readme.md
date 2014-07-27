@@ -33,6 +33,3 @@ So if you turn it on and the heating light shows that it's heated up and you pre
 Imagine it as something like the thing shown below:
 
 ![Coffee Machine](http://1.bp.blogspot.com/-yGXNyEhVIGw/U9QRFAugLKI/AAAAAAAACi0/T_Z7CGhChzc/s1600/coffeemachine.jpg "Coffee Machine")
-
-have phun!
-If you have questions, use comments below. It's the first draft of this kata.
