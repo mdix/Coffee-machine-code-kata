@@ -10,9 +10,9 @@ Code a bean-to-cup coffee machine. You can decide how much capacity the watertan
 
 ## Featues (grinding + brewing = duration until cup is finished)
 * grinding (how much coffee)
-** strong: 7 seconds
-** normal: 5 seconds
-** mild: 3 seconds
+ * strong: 7 seconds
+ * normal: 5 seconds
+ * mild: 3 seconds
 * brew half a cup, 15 seconds
 * brew a cup, 30 seconds
 * hot steam to preheat cups (blocks brewing and visa versa)
@@ -21,9 +21,9 @@ Code a bean-to-cup coffee machine. You can decide how much capacity the watertan
 * on / off (starts heating, heating always takes 20 seconds)
 * half a cup / cup (default: half a cup)
 * grinding
-** pressed once: thin
-** pressed twice: normal (default)
-** pressed thrice: strong
+ * pressed once: thin
+ * pressed twice: normal (default)
+ * pressed thrice: strong
 * steam
 * start
 
