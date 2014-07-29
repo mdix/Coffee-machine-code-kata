@@ -17,6 +17,7 @@ Code a bean-to-cup coffee machine. (Aside: Why? Because I've always wanted to do
 * brew a cup, 30 seconds (300 ml)
 * hot steam to preheat cups (blocks brewing and visa versa, uses some water...)
 * water tank (2000 ml capacity)
+* bean reservoire (500g capacity)
 
 ## Buttons
 * on / off (starts heating, heating always takes 20 seconds)
